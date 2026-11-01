@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Downloads\\\u05EA\u05DB\u05E0\u05D5\u05EA 2027\\html-serializer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B92E9A93-CCF9-4068-8195-5B556FE2D10B}|html-serializer\\html-serializer.csproj|c:\\users\\user1\\downloads\\\u05EA\u05DB\u05E0\u05D5\u05EA 2027\\html-serializer\\html-serializer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92E9A93-CCF9-4068-8195-5B556FE2D10B}|html-serializer\\html-serializer.csproj|solutionrelative:html-serializer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92E9A93-CCF9-4068-8195-5B556FE2D10B}|html-serializer\\html-serializer.csproj|c:\\users\\user1\\downloads\\\u05EA\u05DB\u05E0\u05D5\u05EA 2027\\html-serializer\\html-serializer\\htmlelementextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92E9A93-CCF9-4068-8195-5B556FE2D10B}|html-serializer\\html-serializer.csproj|solutionrelative:html-serializer\\htmlelementextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92E9A93-CCF9-4068-8195-5B556FE2D10B}|html-serializer\\html-serializer.csproj|c:\\users\\user1\\downloads\\\u05EA\u05DB\u05E0\u05D5\u05EA 2027\\html-serializer\\html-serializer\\htmlelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92E9A93-CCF9-4068-8195-5B556FE2D10B}|html-serializer\\html-serializer.csproj|solutionrelative:html-serializer\\htmlelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92E9A93-CCF9-4068-8195-5B556FE2D10B}|html-serializer\\html-serializer.csproj|c:\\users\\user1\\downloads\\\u05EA\u05DB\u05E0\u05D5\u05EA 2027\\html-serializer\\html-serializer\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92E9A93-CCF9-4068-8195-5B556FE2D10B}|html-serializer\\html-serializer.csproj|solutionrelative:html-serializer\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92E9A93-CCF9-4068-8195-5B556FE2D10B}|html-serializer\\html-serializer.csproj|c:\\users\\user1\\downloads\\\u05EA\u05DB\u05E0\u05D5\u05EA 2027\\html-serializer\\html-serializer\\htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92E9A93-CCF9-4068-8195-5B556FE2D10B}|html-serializer\\html-serializer.csproj|solutionrelative:html-serializer\\htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{87654321-4321-4321-4321-987654321cba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HtmlElementExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\\u05EA\u05DB\u05E0\u05D5\u05EA 2027\\html-serializer\\html-serializer\\HtmlElementExtensions.cs",
+              "RelativeDocumentMoniker": "html-serializer\\HtmlElementExtensions.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\\u05EA\u05DB\u05E0\u05D5\u05EA 2027\\html-serializer\\html-serializer\\HtmlElementExtensions.cs",
+              "RelativeToolTip": "html-serializer\\HtmlElementExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T18:24:05.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Selector.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\\u05EA\u05DB\u05E0\u05D5\u05EA 2027\\html-serializer\\html-serializer\\Selector.cs",
+              "RelativeDocumentMoniker": "html-serializer\\Selector.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\\u05EA\u05DB\u05E0\u05D5\u05EA 2027\\html-serializer\\html-serializer\\Selector.cs",
+              "RelativeToolTip": "html-serializer\\Selector.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswBoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T18:01:56.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HtmlHelper.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\\u05EA\u05DB\u05E0\u05D5\u05EA 2027\\html-serializer\\html-serializer\\HtmlHelper.cs",
+              "RelativeDocumentMoniker": "html-serializer\\HtmlHelper.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\\u05EA\u05DB\u05E0\u05D5\u05EA 2027\\html-serializer\\html-serializer\\HtmlHelper.cs",
+              "RelativeToolTip": "html-serializer\\HtmlHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T16:13:23.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HtmlElement.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\\u05EA\u05DB\u05E0\u05D5\u05EA 2027\\html-serializer\\html-serializer\\HtmlElement.cs",
+              "RelativeDocumentMoniker": "html-serializer\\HtmlElement.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\\u05EA\u05DB\u05E0\u05D5\u05EA 2027\\html-serializer\\html-serializer\\HtmlElement.cs",
+              "RelativeToolTip": "html-serializer\\HtmlElement.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA2wCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T15:54:41.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\\u05EA\u05DB\u05E0\u05D5\u05EA 2027\\html-serializer\\html-serializer\\Program.cs",
+              "RelativeDocumentMoniker": "html-serializer\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\\u05EA\u05DB\u05E0\u05D5\u05EA 2027\\html-serializer\\html-serializer\\Program.cs",
+              "RelativeToolTip": "html-serializer\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T15:21:56.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
